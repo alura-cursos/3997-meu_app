@@ -1,13 +1,13 @@
 
 ![Mobile-Primeiro app Dart](https://github.com/user-attachments/assets/66874d91-be96-42cc-bc18-0024fac24912)
 
-# Titulo do projeto
+# Meu app
 
-App de simulação de um e-commerce para produtos naturais para o curso de personalização de UI no Android com Kotlin.
+Aplicação simples que traz interação entre usuário e terminal.
 
 ## 🔨 Funcionalidades do projeto
 
-O App lista produtos com imagem, título, descrição e valor. Também, é possível cadastrar produtos. Todo armazenamento é mantido em memória do App, portanto, ao finalizar o App as informações são perdidas.
+A aplicação mostra uma mensagem de boas-vindas em seguida pergunta o nome da pessoa usuária. O nome é capturado e depois mostrado em uma mensagem customizada dentro do terminal.
 
 ## 🛠️ Abrir e rodar o projeto
 
